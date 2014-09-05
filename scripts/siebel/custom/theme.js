@@ -59,6 +59,6 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 
-/* End Defect:200 CHAMARS 05 Sep 2014 */
+/* End Defect:200 CHAMARS 05 Sep 2014 more stars  */
 
 
