@@ -20,6 +20,7 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 */
+/* Start Defect:200 CHAMARS 05 Sep 2014 */
 
 SiebelApp.ThemeManager.addResource(
     "GRAY_TAB",
@@ -57,3 +58,4 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 
+/* End Defect:200 CHAMARS 05 Sep 2014 */
