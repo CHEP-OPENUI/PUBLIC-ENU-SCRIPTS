@@ -20,6 +20,7 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 */
+/* Shiv comments****/
 /* Start Defect:200 CHAMARS 05 Sep 2014 */
 
 SiebelApp.ThemeManager.addResource(
@@ -58,4 +59,8 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 
+<<<<<<< HEAD
 /* End Defect:200 CHAMARS 05 Sep 2014 */
+=======
+/* End Defect:200 CHAMARS 05 Sep 2014 ***************/
+>>>>>>> bc3c1b9699a227676793a3e1e51f4a8ec33177b9
