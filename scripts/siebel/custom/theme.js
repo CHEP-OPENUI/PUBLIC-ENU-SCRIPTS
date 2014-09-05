@@ -20,7 +20,7 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 */
-/* Shiv comments****/
+/* Shiv comments****More stars/
 /* Start Defect:200 CHAMARS 05 Sep 2014 */
 
 SiebelApp.ThemeManager.addResource(
