@@ -20,3 +20,40 @@ SiebelApp.ThemeManager.addResource(
     }
 );
 */
+
+SiebelApp.ThemeManager.addResource(
+    "GRAY_TAB",
+    {
+       css : {
+               "sce_theme" : "files/custom/chep-fix.css" 
+             }
+    }
+);
+
+SiebelApp.ThemeManager.addResource(
+    "TANGERINE_TAB",
+    {
+       css : {
+               "sce_theme" : "files/custom/chep-fix.css" 
+             }
+    }
+);
+
+SiebelApp.ThemeManager.addResource(
+    "GRAY_ACCORDION",
+    {
+       css : {
+               "sce_theme" : "files/custom/chep-fix.css" 
+             }
+    }
+);
+
+SiebelApp.ThemeManager.addResource(
+    "TANGERINE_ACCORDION",
+    {
+       css : {
+               "sce_theme" : "files/custom/chep-fix.css" 
+             }
+    }
+);
+
