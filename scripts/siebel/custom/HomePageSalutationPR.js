@@ -42,7 +42,7 @@ HomePageSalutationPR.prototype.SetRenderer = function () {
         oApplet = oAppletMap[applet]; //get current applet object
         sAppletName = oApplet.GetName(); //get applet name
 
-        if (sAppletName == "Salutation Applet (SSE)") { // if it is salutation applet
+        if (sAppletName == "Salutation Applet (SSE)" || sAppletName == "Salutation Applet (eChannel)") { // if it is salutation applet
             oAppletPM = oApplet.GetPModel(); //get Applet PM
             sAppletId = oApplet.GetFullId(); //get AppletFullId. You need this for accessing existing placeholder
 
